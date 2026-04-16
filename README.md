@@ -1,5 +1,5 @@
 # Water-Level-Monitoring
-# Water Level Monitor (IoT Based)
+
 
 A real-time water level monitoring system that uses an ultrasonic sensor to measure water depth and displays the results on an LCD screen. Powered by the ESP8266, this project is ready for IoT integration.
 
